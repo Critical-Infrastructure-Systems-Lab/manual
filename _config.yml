@@ -44,9 +44,9 @@ author:
   # Used by `jekyll-feed`:
   name:                Stefano Galelli
   email:               galelli@cornell.edu
-  #social:
-  #  twitter: GalelliStefano
-  #  github: Critical-Infrastructure-Systems-Lab
+  social:
+    twitter: GalelliStefano
+    github: Critical-Infrastructure-Systems-Lab
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
