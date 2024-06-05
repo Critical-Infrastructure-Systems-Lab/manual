@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing
+title: Writing and Reviewing
 description: >
   Resources for writing and reviewing your first paper.
 hide_description: true
