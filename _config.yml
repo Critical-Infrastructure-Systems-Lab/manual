@@ -29,7 +29,7 @@ description:           >
   activities we engage with on a daily basis.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline: Online resources for the CIS Leb members
 
 # A list of keywords for your blog
 keywords:              []
@@ -42,8 +42,11 @@ logo:                  /assets/img/Logo-only-no-background.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Stefano Galelli
+  email:               galelli@cornell.edu
+  social:
+    twitter: GalelliStefano
+    github: Critical-Infrastructure-Systems-Lab
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
