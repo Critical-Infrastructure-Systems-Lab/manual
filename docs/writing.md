@@ -7,7 +7,7 @@ description: >
   so that your content remains compatible with other Jekyll themes.
 hide_description: true
 sitemap: false
-permalink: /docs/writing
+permalink: /docs/writing-and-reviewing
 ---
 
 Hydejack offers a few additional features to markup your content.
