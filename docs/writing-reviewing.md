@@ -1,6 +1,11 @@
 ---
-layout: dark
-title: Writing & Reviewing
+layout: page
+title: Writing
+description: >
+  Resources on how to write and review your first paper.
+hide_description: true
+sitemap: false
+permalink: /docs/
 ---
 
 # Writing
