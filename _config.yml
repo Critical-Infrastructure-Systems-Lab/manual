@@ -56,6 +56,8 @@ menu:
     url:               /about/
   - title:             Documentation
     url:               /docs/
+  - title:             How to edit this manual
+    url:               /docs/how-to-edit
   - title:             Writing and reviewing
     url:               /docs/writing-and-reviewing    
   - title:             Example
