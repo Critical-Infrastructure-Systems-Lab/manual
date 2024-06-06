@@ -62,6 +62,8 @@ menu:
     url:               /docs/grad-studies-matters
   - title:             Writing and reviewing
     url:               /docs/writing-and-reviewing    
+  - title:             General programming
+    url:               /docs/general-programming
   - title:             Example
     url:               /example/
   - title:             "CIS Lab Website"
