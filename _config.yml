@@ -72,8 +72,10 @@ menu:
     url:               /docs/data-viz
   - title:             Job search
     url:               /docs/job-search
-  - title:             Example
-    url:               /example/
+  - title:             Posts / Other resources
+    url:               /docs/posts
+#  - title:             Example
+#    url:               /example/
   - title:             "CIS Lab Website"
     url:               https://galelli.cee.cornell.edu
 
