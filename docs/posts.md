@@ -8,6 +8,11 @@ sitemap: false
 permalink: /docs/posts
 ---
 
-# ...
+Our posts are organized by different categories, which include:
 
-...
+- Academic Writing
+
+- Data
+
+- ...
+
