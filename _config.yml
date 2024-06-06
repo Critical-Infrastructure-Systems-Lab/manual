@@ -64,6 +64,10 @@ menu:
     url:               /docs/writing-and-reviewing    
   - title:             General programming
     url:               /docs/general-programming
+  - title:             CIS Lab software
+    url:               /docs/CIS-Lab-software
+  - title:             Other software
+    url:               /docs/other-software
   - title:             Example
     url:               /example/
   - title:             "CIS Lab Website"
