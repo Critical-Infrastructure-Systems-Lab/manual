@@ -58,6 +58,8 @@ menu:
     url:               /docs/
   - title:             How to edit this manual
     url:               /docs/how-to-edit
+  -title:              Graduate studies matters
+    url:               /docs/grad-studies-matters
   - title:             Writing and reviewing
     url:               /docs/writing-and-reviewing    
   - title:             Example
