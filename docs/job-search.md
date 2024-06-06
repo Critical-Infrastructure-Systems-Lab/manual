@@ -28,7 +28,7 @@ Openings for PhD, PostDoc, and Faculty positions are typically advertised on web
 - [Earthworks](http://www.earthworks-jobs.com)
 - [GlobalWaterNet](http://www.globalwaternet.com)
 
-## Maailing Lists
+## Mailing Lists
 
 - [MultiSector Dynamics](https://multisectordynamics.org/join-us/)
 - [AboutHydrology](https://groups.google.com/g/abouthydrology)
