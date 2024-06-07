@@ -72,6 +72,8 @@ menu:
     url:               /docs/data-viz
   - title:             Job search
     url:               /docs/job-search
+  - title:             Templates
+    url:               /docs/templates
   - title:             Posts / Other resources
     url:               /docs/posts
 #  - title:             Example
