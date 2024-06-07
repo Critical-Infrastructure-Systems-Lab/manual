@@ -40,6 +40,25 @@ Note that by using Overleaf you don't have to use any software on your computer.
 - [Writing a manuscript and mastering abstracts: a guide for authors](https://www.springernature.com/gp/researchers/the-source/blog/blogposts-getting-published/writing-a-manuscript-and-mastering-abstracts/25261924)
 - Joshua Schimel's [blog](https://schimelwritingscience.wordpress.com)
 
+## Ready to submit?
+
+Your paper is now ready to be submitted: What's the next? What all journals will require is a **list of recommended reviewers** as well as a **cover letter**. They are both important:
+
+- It goes without saying, but you cannot suggest close collaborators or people from your same institution--these are clear conflicts of interest. Instead, suggest experts in the field and explain why you chose these names. A good editor will take your suggestions seriously--and may be negatively impressed by a sloppy list of reviewers.
+
+- The cover letter is NOT a summary of your paper. It is a document that explains why your work is novel and how it fits the aim and scope of the journal.
+
+Please check our [Templates](templates.md) section for a practical example of a document containing both cover letter and list of suggested reviewers.
+
+## Ready to revise?
+
+Your paper has been reviewed and you have been invited to submit a revised version; great! You will have to follow the specific guidelines provided by the journal concerning which documents to submit. In all cases, you will have to provide a **response-to-reviewers** as well as **cover letter** containing a bit summary of your revision for the editor-in-chief.
+
+- Your response-to-reviewers has to be clear and concrete; it is a super-important document. The best way to learn how to write one is to see an example. We suggest reading the material posted [here](https://hess.copernicus.org/articles/26/2345/2022/hess-26-2345-2022-discussion.html). For this paper, you can read the paper we first submitted, the response-to-reviewers, and the final version that was eventually accepted.
+
+- For an example of the cover letter, please refer to the [Templates](templates.md) section. Reach out to [Stefano](mailto:galelli@cornell.edu) if you want a version with the Cornell letterhead. 
+
+
 ## To do list
 
 - Open an account on [Overleaf](https://www.overleaf.com).
