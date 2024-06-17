@@ -23,12 +23,21 @@ As explained above, this manual builds on GitHub, GitHub pages, Markdown, and Hy
 
 - Familiarize with [Markdown](https://critical-infrastructure-systems-lab.github.io/manual/docs/general-programming) 
 - Take the introductory course to [GitHub](https://critical-infrastructure-systems-lab.github.io/manual/docs/general-programming). Note that the specific training we recommend includes a specific [section](https://github.com/skills/github-pages) on GitHub Pages.
-- Take a quick look at the Hydejack [documentation](https://hydejack.com/docs/). More details on the specific elements you should be familiar with are reported below.
+- Take a quick look at the Hydejack [documentation](https://hydejack.com/docs/). Since the manual has already been setup, the key sections you will need are [Config](https://hydejack.com/docs/config/), [Basics](https://hydejack.com/docs/basics/), and [Writing](https://hydejack.com/docs/writing/)
 - Ask [Stefano](emailto:galelli@cornell.edu) for access to the GitHub [repo](https://github.com/Critical-Infrastructure-Systems-Lab/manual) containing this website.
+
+## The file structure
+
+The last step before editing the manual is to get to know the **file structure**. These are the main **folders** you will likely have to deal with:
+
+- The `root` folder contains the `about.md`, `README.md`, and `_config.yml` files. As explained below, these files can be edited, but **please check with Stefano before doing so**.
+- `_data` contains the `authors.yml` file that provides specifications on the authors of blog posts.
+- `assets/img/docs` is the folder containing documents linked to pages, such as `.pdf` files.
+- `docs` contains all webpages, with the exception of `about.md` and blog posts (more below).
 
 ## Specific types of contribution
 
-**The file structure**
+Here, we illustrate the steps needed to implement the most common contributions to the manual.
 
 ### Editing an existing page
 
@@ -73,8 +82,22 @@ This is not difficult--see this [example](https://hydecorp.github.io/hydejack-st
 [Stefano](emailto:galelli@cornell.edu)
 ```  
 
-###
+### Adding a new file
+
+You may want to add a new file--such as a `.pdf` or `ppt` presentation--and then link it to a webpage. To do so, follow these two steps:
+
+- Files are contained in the folder `assets/img/docs`. Just navigate to the folder and upload the file.
+
+- To link the file, follow the example reported below:
+
+```
+[Template](../assets/img/docs/Abstract-template.docx)
+```  
+
+### Adding a blog post
+
+...
 
 This website was forked from [https://github.com/hydecorp/hydejack-starter-kit](https://github.com/hydecorp/hydejack-starter-kit)
 
-Since the manual has already been setup, the key sections you will need are [Config](https://hydejack.com/docs/config/), [Basics](https://hydejack.com/docs/basics/), and [Writing](https://hydejack.com/docs/writing/)
+
