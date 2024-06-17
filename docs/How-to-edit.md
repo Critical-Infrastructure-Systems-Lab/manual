@@ -23,7 +23,7 @@ As explained above, this manual builds on GitHub, GitHub pages, Markdown, and Hy
 
 - Familiarize with [Markdown](https://critical-infrastructure-systems-lab.github.io/manual/docs/general-programming) 
 - Take the introductory course to [GitHub](https://critical-infrastructure-systems-lab.github.io/manual/docs/general-programming). Note that the specific training we recommend includes a specific [section](https://github.com/skills/github-pages) on GitHub Pages.
-- Take a quick look at the Hydejack [documentation](https://hydejack.com/docs/). Since the manual has already been setup, the key sections you will need are [Config](https://hydejack.com/docs/config/), [Basics](https://hydejack.com/docs/basics/), and [Writing](https://hydejack.com/docs/writing/)
+- Take a quick look at the Hydejack [documentation](https://hydejack.com/docs/). Since the manual has already been setup, the key sections you will need are [Config](https://hydejack.com/docs/config/), [Basics](https://hydejack.com/docs/basics/), and [Writing](https://hydejack.com/docs/writing/). Also, note that this website was forked from [https://github.com/hydecorp/hydejack-starter-kit](https://github.com/hydecorp/hydejack-starter-kit), so you can always check out that repo for some additional examples.
 - Ask [Stefano](emailto:galelli@cornell.edu) for access to the GitHub [repo](https://github.com/Critical-Infrastructure-Systems-Lab/manual) containing this website.
 
 ## The file structure
@@ -92,12 +92,27 @@ You may want to add a new file--such as a `.pdf` or `ppt` presentation--and then
 
 ```
 [Template](../assets/img/docs/Abstract-template.docx)
-```  
+```
+
+### Adding an author
+
+Authors can be added by editing the `authors.yml` file in the `_data` folder. Additional details are reported [here](https://hydejack.com/docs/config/#adding-an-author).
+
 
 ### Adding a blog post
 
-...
+Blog posts, finally! First, you should note that posts are organized by categories or tags, such as `writing` or `programming`. 
 
-This website was forked from [https://github.com/hydecorp/hydejack-starter-kit](https://github.com/hydecorp/hydejack-starter-kit)
+If you are planning to write **a post about an existing category**, just navigate to the corresponding folder, such as `programming/_posts`, and then create a post taking one of the existing posts as an example.
+
+If, on the other hand, you are planning to create a post about a new category, the process is a bit more nuanced:
+
+- First, access the folder `_featured_categories` and create a `.md` file describing the category.
+- Then, create a new folder (in the `root` one) that will contain all posts for that category.
+- Finally, create your first post for that specific category.
+
+More details on these steps are reported [here](https://hydejack.com/docs/basics/#adding-a-category-or-tag).
+
+
 
 
