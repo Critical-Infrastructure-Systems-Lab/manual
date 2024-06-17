@@ -12,7 +12,7 @@ Our posts are organized by different categories, which include:
 
 - [Academic Writing](../_featured_categories/writing.md)
 
-- Data
+- [Generic Programming](../_featured_categories/programming.md)
 
 - ...
 
