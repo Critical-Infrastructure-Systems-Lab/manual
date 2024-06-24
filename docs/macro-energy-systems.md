@@ -10,7 +10,7 @@ permalink: /docs/macro-energy-systems
 
 | **Title** | **Author / Year** | **Theme** | **Comment** |
 |-----------|-------------------|-----------|-------------|
-|           |                   |           |             |
+| Macro-Energy Systems: Toward a New Discipline | Introduction | Introduction | Defines macro-energy systems modeling |
 |           |                   |           |             |
 |           |                   |           |             |
 |           |                   |           |             |
@@ -20,3 +20,4 @@ permalink: /docs/macro-energy-systems
 |           |                   |           |             |
 |           |                   |           |             |
 
+			
