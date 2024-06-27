@@ -28,7 +28,7 @@ This is a comprehensive list of theses and exams from former and current lab mem
 - [Slides](../assets/img/docs/PE-Ng.pdf) by Dr. Ng
 - [Slides](../assets/img/docs/PE-Koh.pptx) by Dr. Koh
 - [Slides](../assets/img/docs/PE-Vu.pdf) by Dr. Vu
-- [Slides](../assets/img/docs/PE-Bunnak.pdf) by Phumthep Bunnak
+- [Slides](../assets/img/docs/PE-Bunnak.pptx) by Phumthep Bunnak
 
 ## PhD defense
 
