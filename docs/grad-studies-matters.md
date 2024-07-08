@@ -59,6 +59,14 @@ We prepared a reading list for a few important research topics
 - [Reservoir operations](reservoir-operations.md)
 - Deep learning for hydrology and energy
 - [Cyber-security of water infrastructure](cyber-security.md)
+- Hydrology and energy systems of:
+ - Southeast Asia
+ - South Asia
+ - CONUS
+ - CONUS / Colorado
+ - CONUS / Columbia
+ - CONUS / Mississipi
+ - Global studies
 
 
 # Conferences
