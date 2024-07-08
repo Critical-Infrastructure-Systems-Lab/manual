@@ -54,7 +54,11 @@ This is a comprehensive list of theses and exams from former and current lab mem
 We prepared a reading list for a few important research topics
 
 - [Macro-energy systems](macro-energy-systems.md)
-- ...
+- Large-scale hydrological modelling
+- Remote sensing for hydrology
+- Reservoir operation
+- Deep learning for hydrology and energy
+- Cyber-security of water infrastructure
 
 
 # Conferences
