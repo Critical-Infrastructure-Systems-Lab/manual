@@ -1,3 +1,11 @@
+---
+layout: post
+title: How to Scrap a Website to Gather Reservoir Storage Data?
+description: >
+  Scraping a website with Python
+sitemap: false
+hide_last_modified: true
+---
 
 # How to Scrap a Website to Gather Reservoir Storage Data?
 >**Edited by: Shanti Shwarup Mahto**
