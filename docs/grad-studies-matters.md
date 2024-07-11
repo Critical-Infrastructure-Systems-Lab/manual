@@ -57,7 +57,9 @@ We prepared a reading list for a few important research topics
 - [Large-scale hydrological modelling](large-scale-hydrological-modelling.md)
 - Remote sensing for hydrology
 - [Reservoir operations](reservoir-operations.md)
-- Deep learning for hydrology and energy
+- AI / Deep learning for:
+    - [hydro-climatology](DL-hydro-climatology.md)
+    - [energy systems](DL-energy-systems.md)
 - [Cyber-security of water infrastructure](cyber-security.md)
 - Hydrology and energy systems of:
     - Southeast Asia
