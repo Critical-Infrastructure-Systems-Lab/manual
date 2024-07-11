@@ -21,8 +21,7 @@ permalink: /docs/large-scale-hydrological-modelling
 | [Sensitivity analysis of environmental models: A systematic review with practical workflow](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR029001) | Pianosi et al. 2016 | Sensitivity Analysis | Literature review |
 | [The Emergence of Global-Scale Hydrology](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/WR022i09Sp0006S) | Eagleson (1986) | Global hydrology | Commentary |
 | [Global hydrology 2015: State, trends, and directions](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2015WR017173) | Bierkens (2015) | Global hydrology | Literature review |
-| [Hyperresolution global land surface modeling: Meeting a grand
-challenge for monitoring Earth’s terrestrial water](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2010WR010090) | Wood et al. (2011) | Global hydrology | Commentary |
+| [Hyperresolution global land surface modeling: Meeting a grand challenge for monitoring Earth’s terrestrial water](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2010WR010090) | Wood et al. (2011) | Global hydrology | Commentary |
 
 
 
