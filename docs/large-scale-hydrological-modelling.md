@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Large-scale hydrologic modelling
+title: Large-scale hydrological modelling
 description: >
-  Reading list on Large-scale hydrologic modelling
+  Reading list on Large-scale hydrological modelling
 hide_description: true
 sitemap: false
-permalink: /docs/large-scale-hydrologic-modelling
+permalink: /docs/large-scale-hydrological-modelling
 ---
 
 | **Title** | **Author / Year** | **Theme** | **Comment** |
