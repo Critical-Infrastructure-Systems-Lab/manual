@@ -1,3 +1,12 @@
+---
+layout: post
+title: Navigating the Linux Command Line
+description: >
+  A first introduction to the Linux Command Line
+sitemap: false
+hide_last_modified: true
+---
+
 # Navigating the Linux Command Line
 >**Edited by: Phumthep Bunnak**
 
