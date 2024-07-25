@@ -61,14 +61,11 @@ We prepared a reading list for a few important research topics
     - [hydro-climatology](DL-hydro-climatology.md)
     - [energy systems](DL-energy-systems.md)
 - [Cyber-security of water infrastructure](cyber-security.md)
-- Hydrology and energy systems of:
+- [Hydrology and energy systems](hydrology-and-energy-systems.md) of:
+    - Global studies
     - Southeast Asia
     - South Asia
     - CONUS
-    - CONUS / Colorado
-    - CONUS / Columbia
-    - CONUS / Mississipi
-    - Global studies
 
 
 # Conferences
