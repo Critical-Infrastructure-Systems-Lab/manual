@@ -20,9 +20,13 @@ permalink: /docs/hydrology-and-energy-systems
 
 | **Title** | **Author / Year** | **Theme** | **Comment** |
 |-----------|-------------------|-----------|-------------|
-| [...]() | ... | ... | ... |
-| [...]() | ... | ... | ... |
-| [...]() | ... | ... | ... |
+| [Coherent Streamflow Variability in Monsoon Asia Over the Past Eight Centuries—Links to Oceanic Drivers](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020WR027883) | Nguyen et al. (2020) | Hydro-climatic variability in SE Asia | Technical paper |
+| [Trading-off fish biodiversity, food security, and hydropower in the Mekong River Basin](https://www.pnas.org/doi/full/10.1073/pnas.1201423109) | Ziv et al. (2012) | Mekong - dam planning | Technical paper |
+| [Planning dam portfolios for low sediment trapping shows limits for sustainable hydropower in the Mekong](https://www.science.org/doi/10.1126/sciadv.aaw2175) | Schmitt et al. (2019) | Mekong - dam planning | Technical paper |
+| [Opportunities to curb hydrological alterations via dam re-operation in the Mekong](https://www.nature.com/articles/s41893-022-00971-z) | Galelli et al. (2022) | Mekong - dam operations | Technical paper |
+| [Changing sediment budget of the Mekong: Cumulative threats and management strategies for a large river basin](https://www.sciencedirect.com/science/article/abs/pii/S0048969717334198) | Kondolf et al. (2018) | Mekong - sediment transport | Position paper |
+| [The Greater Mekong's Climate-Water-Energy Nexus: How ENSO-Triggered Regional Droughts Affect Power Supply and CO2 Emissions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020EF001814) | Chowdhury et al. (2021) | Greater Mekong - water-energy-climate | Technical paper |
+| [Solar energy and regional coordination as a feasible alternative to large hydropower in Southeast Asia](https://www.nature.com/articles/s41467-021-24437-6) | Siala et al. (2021) | Greater Mekong - power system planning | Technical paper |
 
 ## South Asia
 
