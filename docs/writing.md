@@ -50,6 +50,10 @@ Your paper is now ready to be submitted: What's the next? What all journals will
 
 Please check our [Templates](templates.md) section for a practical example of a document containing both cover letter and list of suggested reviewers.
 
+All journals now have a policy in place for sharing the data and code corresponding to a given paper. Sometimes, specific situations or agreements with third parties may limit our ability to share data or code; that's a very rare circumstance, though. This means you will have to prepare a third item, namely **a repository containing instructions to reproduce results in a published work**:
+
+- There are multiple ways for creating such repository that ultimately depend on the level of reproducibility you may want to reach. An excellent example / guide is this [meta-repository](https://github.com/IMMM-SFA/metarepo?tab=readme-ov-file) used in the IM3 project.
+
 ## Ready to revise?
 
 Your paper has been reviewed and you have been invited to submit a revised version; great! You will have to follow the specific guidelines provided by the journal concerning which documents to submit. In all cases, you will have to provide a **response-to-reviewers** as well as **cover letter** containing a bit summary of your revision for the editor-in-chief.
