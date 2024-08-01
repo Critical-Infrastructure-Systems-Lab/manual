@@ -32,4 +32,15 @@ Our team relies heavily on GitHub, and all our software projects are hosted on t
 - Take the [online training](https://skills.github.com) provided on GitHub website. We recommend proceeding as follows:
   - Start with **Introduction to GitHub**
   - Take all modules on **First day on GitHub**
-  - Take all modules on **First week on GitHub** (*Code with Codespaces* and *Code with Copilot* are optional) 
+  - Take all modules on **First week on GitHub** (*Code with Codespaces* and *Code with Copilot* are optional)
+
+ 
+# Linux for research
+
+[GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.html) is the powerhouse (operating system) behind most of our research group's computing clusters. Mastering the command line is required for running computational experiments. If you want a deep drive into Linux, then check our blog post [here](https://critical-infrastructure-systems-lab.github.io/manual/programming/2024-07-10-tutorial-linux-1/).
+
+## To do list (Getting started with Hopper)
+
+- Submit the [request form](https://www.cac.cornell.edu/services/external/RequestCACid.aspx?ProjectID=vs498_0001) to Cornell Center for Advanced Computing (CAC). Also email Professor Vivek Srikrishnan to ask for his approval of the request.
+- While waiting for the approval, read and understand this [guide](https://github.com/Cornell-EWRS/hopper) to get started with Hopper.
+  
