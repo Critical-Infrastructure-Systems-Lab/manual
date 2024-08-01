@@ -43,4 +43,12 @@ Our team relies heavily on GitHub, and all our software projects are hosted on t
 
 - Submit the [request form](https://www.cac.cornell.edu/services/external/RequestCACid.aspx?ProjectID=vs498_0001) to Cornell Center for Advanced Computing (CAC). Also email Professor Vivek Srikrishnan to ask for his approval of the request.
 - While waiting for the approval, read and understand this [guide](https://github.com/Cornell-EWRS/hopper) to get started with Hopper.
-  
+
+
+# Python coding standard
+When working on a long-term collaboration project with others, adopting a consistent coding standard is key. This practice not only improves the readability and maintainability of the codebase, saving you from future headaches, but also develops industry-valued skills.
+
+## To do list
+
+- Familiarize yourself with the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html). While the choice of a specific style guide is subjective, Google Python Style Guide offers a comprehensive set of common rules along with clear explanations and examples.
+- Streamline your coding workflow by configuring [your favourite IDE](https://code.visualstudio.com/docs/python/formatting) to automatically format your code with tools, such as [Black](https://www.freecodecamp.org/news/auto-format-your-python-code-with-black/).
