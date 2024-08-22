@@ -14,6 +14,8 @@ permalink: /docs/hydrology-and-energy-systems
 |-----------|-------------------|-----------|-------------|
 | [Global terrestrial water storage and drought severity under climate change](https://www.nature.com/articles/s41558-020-00972-w) | Pokhrel et al. (2021) | Hydrology | - |
 | [Globally observed trends in mean and extreme river flow attributed to climate change](https://www.science.org/doi/10.1126/science.aba3996) | Gudmindsson et al. (2021) | Hydrology | - |
+| [Global hydrology 2015: State, trends, and directions](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015WR017173) | Bierkens (2015) | Hydrology | - |
+| [Global prevalence of non-perennial rivers and streams](https://www.nature.com/articles/s41586-021-03565-5) | Messager et al. (2021) | Hydrology | - |
 | [Influence of El Niño Southern Oscillation on global hydropower production](https://iopscience.iop.org/article/10.1088/1748-9326/aa5ef8/meta) | Ng et al. (2017) | Water-energy-climate | - |
 | [Power-generation system vulnerability and adaptation to changes in climate and water resources](https://www.nature.com/articles/nclimate2903) | van Vliet et al. (2016) | Water-energy-climate | - |
 | [Impacts of climate change on energy systems in global and regional scenarios](https://www.nature.com/articles/s41560-020-0664-z) | Yalew et al. (2020) | Water-energy-climate | - |
