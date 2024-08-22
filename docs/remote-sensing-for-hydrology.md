@@ -30,6 +30,10 @@ permalink: /docs/remote-sensing-for-hydrology
 | [Irrigation estimates from space: Implementation of different approaches to model the evapotranspiration contribution within a soil-moisture-based inversion algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0378377422000841) | Dari et al. (2022) | Agricultural water management | Technical paper |
 | [Estimation of Global Irrigation Water Use by the Integration of Multiple Satellite Observations](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021WR030031) | Zhang et al. (2022) | Agricultural water management | Technical paper |
 | [A Review of Irrigation Information Retrievals from Space and Their Utility for Users](https://www.mdpi.com/2072-4292/13/20/4112) | Massari et al. (2021) | Focus on Irrigation | Literature review |
+| [Satellite remote sensing of large lakes and reservoirs: From elevation and area to storage](https://wires.onlinelibrary.wiley.com/doi/10.1002/wat2.1065) | Gao (2015) | Focus on Reservoir Operation | Literature review |
+| [Inferring reservoir operating patterns across the Mekong Basin using only space observations](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2016WR019978) | Bonnema and Hossain (2017) | Focus on Reservoir Operation | Technical paper |
+| [Global models underestimate large decadal decliningand rising water storage trends relative to GRACE satellite data](https://www.pnas.org/doi/abs/10.1073/pnas.1704665115) | Scanlon et al. (2018) | Focus on Groundwater | Technical paper |
+| [Comparison of Groundwater Storage Changes From GRACE Satellites With Monitoring and Modeling of Major U.S. Aquifers](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2020WR027556) | Rateb et al. (2020) | Focus on Groundwater | Technical paper |
 
 
 
