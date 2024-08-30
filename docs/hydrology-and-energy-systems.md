@@ -41,9 +41,10 @@ permalink: /docs/hydrology-and-energy-systems
 
 | **Title** | **Author / Year** | **Theme** | **Comment** |
 |-----------|-------------------|-----------|-------------|
-| [...]() | ... | ... | ... |
-| [...]() | ... | ... | ... |
-| [...]() | ... | ... | ... |
+| [Hydroclimatic shifts driven by human water use for food and energy production] (https://www.pnas.org/doi/abs/10.1073/pnas.2008128118) | Deshmukh et al. (2021) | India - Renewable energy | - |
+| [Atmospheric brown clouds: Impacts on South Asian climate and hydrological cycle] (https://www.pnas.org/doi/abs/10.1073/pnas.0500656102) | Ramanathan et al. (2005) | South Asia: Climate-Hydrology | - |
+| [The Water-Energy-Food Nexus and the Transboundary Context: Insights from Large Asian Rivers] (https://www.mdpi.com/2073-4441/8/5/193) | Keskinen et al. (2016) | South Asia: Water-Energy-Food | - |
+
 
 ## CONUS
 
