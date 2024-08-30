@@ -22,6 +22,8 @@ permalink: /docs/hydrology-and-energy-systems
 | [PyPSA-Earth. A new global open energy system optimization model demonstrated in Africa](https://www.sciencedirect.com/science/article/pii/S0306261923004609) | Parzen et al. (2023) | Power system modelling | - |
 | [Impacts of climate change, policy and Water-Energy-Food nexus on hydropower development](https://www.sciencedirect.com/science/article/abs/pii/S0960148117309928) | Zhang et al. (2018) | Water-energy-food | - |
 | [A review of the current state of research on the water, energy, and food nexus](https://www.sciencedirect.com/science/article/pii/S2214581815001251) | Endo et al. (2017) | Water-energy-food | - |
+| [Climate change impacts on the energy system: a review of trends and gaps](https://link.springer.com/article/10.1007/s10584-018-2265-4) | Cronin et al. (2018) | Energy-climate | - |
+| [Hydroclimatic shifts driven by human water use for food and energy production](https://www.nature.com/articles/nclimate1719) | Destouni et al. (2013) | Energy-climate-food | - |
 
 ## Southeast Asia
 
