@@ -20,6 +20,7 @@ permalink: /docs/hydrology-and-energy-systems
 | [Power-generation system vulnerability and adaptation to changes in climate and water resources](https://www.nature.com/articles/nclimate2903) | van Vliet et al. (2016) | Water-energy-climate | - |
 | [Impacts of climate change on energy systems in global and regional scenarios](https://www.nature.com/articles/s41560-020-0664-z) | Yalew et al. (2020) | Water-energy-climate | - |
 | [PyPSA-Earth. A new global open energy system optimization model demonstrated in Africa](https://www.sciencedirect.com/science/article/pii/S0306261923004609) | Parzen et al. (2023) | Power system modelling | - |
+| [Impacts of climate change, policy and Water-Energy-Food nexus on hydropower development](https://www.sciencedirect.com/science/article/abs/pii/S0960148117309928) | Zhang et al. (2018) | Water-energy-food | - |
 
 ## Southeast Asia
 
