@@ -44,6 +44,14 @@ permalink: /docs/hydrology-and-energy-systems
 | [Hydroclimatic shifts driven by human water use for food and energy production](https://www.pnas.org/doi/abs/10.1073/pnas.2008128118) | Deshmukh et al. (2021) | India - Renewable energy | - |
 | [Atmospheric brown clouds: Impacts on South Asian climate and hydrological cycle](https://www.pnas.org/doi/abs/10.1073/pnas.0500656102) | Ramanathan et al. (2005) | South Asia: Climate-Hydrology | - |
 | [The Water-Energy-Food Nexus and the Transboundary Context: Insights from Large Asian Rivers](https://www.mdpi.com/2073-4441/8/5/193) | Keskinen et al. (2016) | South Asia: Water-Energy-Food | - |
+| [South Asian agriculture increasingly dependent on meltwater and groundwater](https://www.nature.com/articles/s41558-022-01355-z) | Lutz et al. (2022) | South Asia: Agriculture-Hydrology | - |
+| [Increased hydropower but with an elevated risk of reservoir operations in India under the warming climate](https://www.sciencedirect.com/science/article/pii/S2589004223000639) | Chuphal and Mishra (2023) | India: Climate-Hydropower | - |
+| [Projected Increase in Hydropower Production in India under Climate Change](https://www.nature.com/articles/s41598-018-30489-4) | Ali et al. (2018) | India: Climate-Hydropower | - |
+| [Hydro-energy cooperation in South Asia: Prospects for transboundary energy and water security](https://www.sciencedirect.com/science/article/abs/pii/S1462901120305621) | Saklani et al. (2020) | South Asia: energy and water security | - |
+| [High Mountain Asia hydropower systems threatened by climate-driven landscape instability](https://www.nature.com/articles/s41561-022-00953-y) | Li et al. (2022) | South Asia: Water-Energy | - |
+| [Food, water, and energy security in South Asia: A nexus perspective from the Hindu Kush Himalayan region](https://www.sciencedirect.com/science/article/pii/S1462901114000239) | Rasul (2014) | South Asia: Perspective | - |
+| [Beyond hydropower: towards an integrated solution for water, energy and food security in South Asia](https://www.tandfonline.com/doi/full/10.1080/07900627.2019.1579705) | Rasul et al. (2018) | South Asia: energy and water security | - |
+| [Advances in global hydrology–crop modelling to support the UN’s Sustainable Development Goals in South Asia](https://www.sciencedirect.com/science/article/pii/S187734351930020X) | Biemans and Siderius (2019) | South Asia: Agriculture-Hydrology | - |
 
 
 ## CONUS
