@@ -35,17 +35,6 @@ Our team relies heavily on GitHub, and all our software projects are hosted on t
   - Take all modules on **First week on GitHub** (*Code with Codespaces* and *Code with Copilot* are optional)
 
 
-# Software documentation
-
-Software documentation provides information about a software program for everyone involved in its creation, deployment and use. **To be completed**
-
-## To do list
-
-- Open an account on [Read the Docs](https://about.readthedocs.com).
-
-- ... **To be completed**
-
-
 # Introduction to Python and R
 
 In your daily work you will certainly make use of a general-purpose language, such as Matlab, Python, Julia, or R (with the caveat that R is more functional to statistical analysis and data visualization). In our lab, the two commonly used languages are Python and R. Being familiar with one (or both) of them is therefore important. 
@@ -84,8 +73,44 @@ When working on a long-term collaboration project with others, adopting a consis
 
 # Cluster basics
 
+The [Cornell University Center for Advanced Computing (CAC)](https://www.cac.cornell.edu) provides several computing resources. As part of the EWRS concentration, we have access to [Hopper](https://www.cac.cornell.edu/techdocs/clusters/Hopper/), a 22 compute nodes (c0001-c0022) with dual 20-core Intel Xeon Gold 5218R CPUs @ 2.1 GHz and 192 GB of RAM. This is likely the first cluster you will use.
+
 ## To do list (Getting started with Hopper)
 
-- Submit the [request form](https://www.cac.cornell.edu/services/external/RequestCACid.aspx?ProjectID=vs498_0001) to Cornell Center for Advanced Computing (CAC). Also email Professor Vivek Srikrishnan to ask for his approval of the request.
+- To use Hopper, submit the [request form](https://www.cac.cornell.edu/services/external/RequestCACid.aspx?ProjectID=vs498_0001) to CAC. Also email Professor [Vivek Srikrishnan](emailto:vs498@cornell.edu) to ask for his approval of the request.
+
 - While waiting for the approval, read and understand this [guide](https://github.com/Cornell-EWRS/hopper) to get started with Hopper.
+
+
+# Large-scale computing
+
+... **to be completed**
+
+## To do list
+
+- ...
+
+- ... **To be completed**
+
+
+# Google Earth Engine
+
+Another resource you may use is Google Earth Engine ... **to be completed**
+
+## To do list
+
+- ...
+
+- ... **To be completed**
+
+
+# Software documentation
+
+Software documentation provides information about a software program for everyone involved in its creation, deployment and use. **To be completed**
+
+## To do list
+
+- Open an account on [Read the Docs](https://about.readthedocs.com).
+
+- ... **To be completed**
 
