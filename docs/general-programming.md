@@ -54,13 +54,13 @@ In your daily work you will certainly make use of a general-purpose language, su
 
 - Install Python on your computer. The easiest way to do so is to install [Anaconda](https://www.anaconda.com), an open-source distribution of the Python and R programming languages for data science that aims to simplify package management and deployment. Anaconda, together with its interface Anaconda Navigator, allow you to easily manage programming languages and packages.
 
-- Read the (Anaconda documentation)[https://docs.anaconda.com].
+- Read the [Anaconda documentation](https://docs.anaconda.com).
 
-- Familiarize with Python. There are hundreds of guides available online; our suggestion is to use this Python (tutorial)[https://docs.python.org/3/tutorial/index.html].
+- Familiarize with Python. There are hundreds of guides available online; our suggestion is to use this Python [tutorial](https://docs.python.org/3/tutorial/index.html).
 
-- Note that R can also be installed as a stand-alone software (i.e., independent of Anaconda). If you are planning to install it in such a way, simply visit the (R Project for Statistical Computing website)[https://www.r-project.org]. We recommend installing also (RStudio)[https://posit.co/download/rstudio-desktop/], an integrated development environment for R.
+- Note that R can also be installed as a stand-alone software (i.e., independent of Anaconda). If you are planning to install it in such a way, simply visit the [R Project for Statistical Computing website](https://www.r-project.org). We recommend installing also [RStudio](https://posit.co/download/rstudio-desktop/), an integrated development environment for R.
 
-- Familarize with (RStudio)[https://docs.posit.co/ide/user/] and (R)[https://www.r-project.org/other-docs.html].
+- Familarize with [RStudio](https://docs.posit.co/ide/user/) and [R](https://www.r-project.org/other-docs.html).
   
  
 # Python coding standard
@@ -73,7 +73,16 @@ When working on a long-term collaboration project with others, adopting a consis
 
 # Linux for research
 
-[GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.html) is the powerhouse (operating system) behind most of our research group's computing clusters. Mastering the command line is required for running computational experiments. If you want a deep drive into Linux, then check our blog post [here](https://critical-infrastructure-systems-lab.github.io/manual/programming/2024-07-10-tutorial-linux-1/).
+[GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.html) is the powerhouse (operating system) behind most of our research group's computing clusters. Mastering the command line is required for running computational experiments. If you want a first dive into Linux, then check our blog post [here](https://critical-infrastructure-systems-lab.github.io/manual/programming/2024-07-10-tutorial-linux-1/). A deeper dive into this topic requires taking a short course on Bash Scripting.
+
+## To do list
+
+- Read our [tutorial](https://critical-infrastructure-systems-lab.github.io/manual/programming/2024-07-10-tutorial-linux-1/)
+
+- Take a [Bash Scripting Tutorial](https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/).
+
+
+# Cluster basics
 
 ## To do list (Getting started with Hopper)
 
