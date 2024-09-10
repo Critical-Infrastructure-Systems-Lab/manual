@@ -10,7 +10,7 @@ permalink: /docs/CIS-Lab-software
 
 # PowNet
 
-- Collecting input data (generation, transmission, and demand) from multiple sources
+- [Collecting input data (generation, transmission, and demand) from multiple sources](PowNet-input-collection.md)
 
 - Preparing PowNet input files
 
