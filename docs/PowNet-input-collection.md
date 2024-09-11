@@ -60,8 +60,7 @@ We can begin to populate a spreadsheet with datasets from the previous step. Dat
 
 Note that bolded fields are the required fields at this stage. The most important fields are name and max_capacity. If a data source contains addresses of power plants, then we can use an add-on in Google Sheets to recover the geo-coordinates.
 
-Detailed technical parameters can be inferred from the [Viet Nam Technology Catalogue for power generation and storage](/manual/assets/img
-/docs/2021-VN_tech_catalogue.pdf), as units in the region are likely to share similar technical specifications. These techno-economic parameters are essential for modeling system operations.
+Detailed technical parameters can be inferred from the [Viet Nam Technology Catalogue for power generation and storage](https://github.com/Critical-Infrastructure-Systems-Lab/manual/blob/master/assets/img/docs/2021-VN_tech_catalogue.pdf), as units in the region are likely to share similar technical specifications. These techno-economic parameters are essential for modeling system operations.
 
 #### Reconciling data with official statistics
 Once the generation data has been collected, the dataset should be reconciled with official statistics due to several reasons. For example, the maximum capacity of a unit might differ between sources because some may use nameplate capacity while others use contracted capacity. In such cases, the official reports will act as the reference, therefore, any mismatch should be reconciled accordingly. This can be done by breaking down the installed capacity by fuel type for each year and comparing it with the numbers from the official reports. Reviewing the installed capacity makes it easier to spot the differences. 
@@ -71,8 +70,7 @@ Common causes of mismatch in numbers include
 - Incorrect COD leading to extra capacity
 - Expanded/Derated capacity leading to mismatch in installed capacity
 
-An example of a spreadsheet for reconciling the data can be seen [here](/manual/assets/img
-/docs/MY_powerplants_2016.xlsx). Small mismatches between the collected data and the official reports are expected. Numbers might not even align perfectly among official reports from the same department and year.
+An example of a spreadsheet for reconciling the data can be seen [here](https://github.com/Critical-Infrastructure-Systems-Lab/manual/blob/master/assets/img/docs/MY_powerplants_2016.xlsx). Small mismatches between the collected data and the official reports are expected. Numbers might not even align perfectly among official reports from the same department and year.
 
 ### Data on high-voltage transmission lines and Substations
 Sources for transmission data
@@ -119,5 +117,3 @@ The listed data helps in devising the daily, weekly, and annual profiles of dema
 ### Other notes on data collection
 - Keep an eye out for data on domestic energy prices
 - When collecting data for a new country, it is good practice to understand the business structure (single-buyer or liberalized market) and begin searching through information provided by major electric utilities of that country
-
-...
