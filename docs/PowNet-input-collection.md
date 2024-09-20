@@ -40,13 +40,13 @@ Several international organizations and online communities have curated datasets
 
 #### Key data fields
 We can begin to populate a spreadsheet with datasets from the previous step. Data fields of interest include
-- name: name of the unit. For generators at the same site, use numbers as suffixes for naming
-- latitude
-- longitude
-- year: commercial date of operation (COD)
+- **name**: name of the unit. For generators at the same site, use numbers as suffixes for naming
+- **latitude**
+- **longitude**
+- **year**: commercial date of operation (COD)
 - unit_type: simple cycle, combined cycle, etc.
-- fuel_type
-- max_capacity
+- **fuel_type**
+- **max_capacity**
 - min_capacity
 - heat_rate
 - operation_cost
