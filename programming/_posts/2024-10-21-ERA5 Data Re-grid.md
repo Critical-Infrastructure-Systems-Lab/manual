@@ -7,7 +7,7 @@ sitemap: false
 hide_last_modified: false
 ---
 
-# How to Download ERA5 Climate Data
+# How to Re-grid ERA5-Land Climate Data
 >**Edited by: Jerry Zhuoer Feng**
 
 ### Why Re-gridding?
