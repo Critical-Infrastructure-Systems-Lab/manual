@@ -23,15 +23,15 @@ Although there is a website to download the data, you will find out that you can
 ### Method 1: Downloading data using Climate Data Store API
 **Disclaimer: Currently there seems to be a rather small limit on how much data you can download at once. If you need to bulk download data e.g., 10+ years, it is recommended to take the detour lined out in Method 2.** 
 
-First you will need a ECMWF account. you can register an account for free here: https://cds.climate.copernicus.eu/. This will give you a personal API. Install the Climate Data Store API in your local environment just like any other Python library:
+First you will need a ECMWF account. you can register an account for free here: [Registration](https://cds.climate.copernicus.eu/). This will give you a personal API. Install the Climate Data Store API in your local environment just like any other Python library:
 
 ```
 pip install cdsapi
 ```
 
-To setup the API, follow the instructions here: https://cds.climate.copernicus.eu/how-to-api.
+To setup the API, follow the instructions here: [API Setup](https://cds.climate.copernicus.eu/how-to-api).
 
-You can now request and download data using a python script like the one below. The official website (https://cds.climate.copernicus.eu/datasets/derived-era5-land-daily-statistics?tab=download) contains a helpful tool that helps you to generate the Python code, but you need to change some of the parameters due to the multi-select limit mentioned above.
+You can now request and download data using a python script like the one below. The official website [Website](https://cds.climate.copernicus.eu/datasets/derived-era5-land-daily-statistics?tab=download) contains a helpful tool that helps you to generate the Python code, but you need to change some of the parameters due to the multi-select limit mentioned above.
 
 ```python 
 import cdsapi
@@ -86,13 +86,13 @@ client.retrieve(dataset, request).download()
 
 ### Method 2: Downloading data using Google Earth Engine
 
-The Google Earth Engine method is slightly more complicated, but it allows us to bypass the download limit in Method 1. You can find out more about the dataset here: https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY. Unfortunately, Google's website only gives you the instruction in JavaScript, so let's take a look at how to download it in python.
+The Google Earth Engine method is slightly more complicated, but it allows us to bypass the download limit in Method 1. You can find out more about the dataset here: [Catalog](https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_HOURLY). Unfortunately, Google's website only gives you the instruction in JavaScript, so let's take a look at how to download it in python.
 
 #### Step 1: Create a Earth-Engine-Enabled Google Cloud Project
 
-Google requires a Cloud Project to use the Google Earth Engine authentication flow. Create one here: https://console.cloud.google.com/projectcreate. Remember the name of your project, it will be needed later when calling the API.
+Google requires a Cloud Project to use the Google Earth Engine authentication flow. Create one here: [Create Google Cloud Project](https://console.cloud.google.com/projectcreate). Remember the name of your project, it will be needed later when calling the API.
 
-You will then need to enable the Google Earth Engine API for the project you just created here: https://console.cloud.google.com/apis/library/earthengine.googleapis.com. Make sure you are signed in and double check the project name in the upper left hand corner.
+You will then need to enable the Google Earth Engine API for the project you just created here: [Enabling API for Your Project](https://console.cloud.google.com/apis/library/earthengine.googleapis.com). Make sure you are signed in and double check the project name in the upper left hand corner.
 
 #### Step 2: Authenticate inside Python
 
