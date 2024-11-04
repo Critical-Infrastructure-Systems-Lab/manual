@@ -14,7 +14,7 @@ hide_last_modified: false
 
 ERA5-Land provides global hourly high resolution information of climate variables produced by the Copernicus Climate Change Service (C3S) at the European Centre for Medium-Range Weather Forecasts (ECMWF).
 
-ERA5-Land is a gridded dataset at 0.1° x 0.1° spatial resolution and an hourly temporal resolution. It contains most meterological variables that we use including wind, temperature, precipitation, and many more. The ERA5-Land dataset covers the period from 1950 to 5 days before the current date and is updated daily. A detailed description of the dataset can be found here: https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview. 
+ERA5-Land is a gridded dataset at 0.1° x 0.1° spatial resolution and an hourly temporal resolution. It contains most meterological variables that we use including wind, temperature, precipitation, and many more. The ERA5-Land dataset covers the period from 1950 to 5 days before the current date and is updated daily. A detailed description of the dataset can be found here: [Overview](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview). 
 
 ### Why do I need a script to download it?
 
