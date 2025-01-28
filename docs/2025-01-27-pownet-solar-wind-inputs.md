@@ -6,6 +6,7 @@ description: >
 hide_description: true
 sitemap: false
 permalink: /docs/pownet-solar-wind-inputs
+author: 'Phumthep Bunnak'
 ---
 ## Introduction
 
