@@ -6,6 +6,7 @@ description: >
 hide_description: true
 sitemap: false
 permalink: /docs/PowNet-input-collection
+author: 'Phumthep Bunnak'
 ---
 ## Workflow of PowNet Data Collection
 
