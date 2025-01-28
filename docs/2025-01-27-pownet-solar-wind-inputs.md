@@ -6,8 +6,13 @@ description: >
 hide_description: true
 sitemap: false
 permalink: /docs/pownet-solar-wind-inputs
-author: 'Phumthep Bunnak'
 ---
+
+By: Phumthep Bunnak
+Jan 27th, 2025
+
+
+
 ## Introduction
 
 Variable renewable energy (solar and wind) are treated as generators that can provide instantaneous output subject to availability at each hour. Since solar and wind are dependent on the weather, we can estimate their available using a climate data. The question now is which climate dataset do we use and how do we convert climate variables to site-specific solar and wind capacities?
@@ -54,6 +59,3 @@ There are four scripts that can help download ERA5 data and calculate hourly sol
 - [extract_wind.py](https://github.com/Critical-Infrastructure-Systems-Lab/manual/blob/master/assets/img/docs/extract_wind.py): calculates hourly wind capacity
 - [nearest_point.py](https://github.com/Critical-Infrastructure-Systems-Lab/manual/blob/master/assets/img/docs/nearest_point.py): provides a function to find the closest point from another dataframe.
 
-
-Written by:
-Phumthep Bunnak
