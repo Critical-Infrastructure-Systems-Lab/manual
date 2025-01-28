@@ -6,8 +6,12 @@ description: >
 hide_description: true
 sitemap: false
 permalink: /docs/PowNet-input-collection
-author: 'Phumthep Bunnak'
 ---
+
+By: Phumthep Bunnak
+
+
+
 ## Workflow of PowNet Data Collection
 
 Modeling a real-world power system begins with collecting data on both electricity supply and demand. In most Southeast Asian countries, machine-readable datasets of power systems are unavailable, and updated information is spread across various sources. Fortunately, this information is often found in official reports.
@@ -117,7 +121,3 @@ The listed data helps in devising the daily, weekly, and annual profiles of dema
 ### Other notes on data collection
 - Keep an eye out for data on domestic energy prices
 - When collecting data for a new country, it is good practice to understand the business structure (single-buyer or liberalized market) and begin searching through information provided by major electric utilities of that country
-
-
-Written by:
-Phumthep Bunnak
