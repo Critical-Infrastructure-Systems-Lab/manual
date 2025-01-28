@@ -53,3 +53,7 @@ There are four scripts that can help download ERA5 data and calculate hourly sol
 - [extract_solar.py](https://github.com/Critical-Infrastructure-Systems-Lab/manual/blob/master/assets/img/docs/extract_solar.py): calculates hourly solar capacity
 - [extract_wind.py](https://github.com/Critical-Infrastructure-Systems-Lab/manual/blob/master/assets/img/docs/extract_wind.py): calculates hourly wind capacity
 - [nearest_point.py](https://github.com/Critical-Infrastructure-Systems-Lab/manual/blob/master/assets/img/docs/nearest_point.py): provides a function to find the closest point from another dataframe.
+
+
+Written by:
+Phumthep Bunnak
