@@ -114,7 +114,10 @@ In terms of the temporal dimension, the following information is useful to colle
 - Information on the temporal variability of demand over a period T equal to 24 hours, 7 days, and 12 months
 The listed data helps in devising the daily, weekly, and annual profiles of demand variability. Temporal decomposition algorithms can then create hourly timeseries from this information.
 
-
 ### Other notes on data collection
 - Keep an eye out for data on domestic energy prices
 - When collecting data for a new country, it is good practice to understand the business structure (single-buyer or liberalized market) and begin searching through information provided by major electric utilities of that country
+
+
+Written by:
+Phumthep Bunnak
