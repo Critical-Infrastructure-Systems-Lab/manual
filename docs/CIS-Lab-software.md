@@ -14,7 +14,7 @@ permalink: /docs/CIS-Lab-software
 
 - [Esimating solar and wind capacities for PowNet with ERA5 data](2025-01-27-pownet-solar-wind-inputs.md)
 
-- Preparing PowNet input files
+- [Preparing Transmission input for PowNet](https://github.com/Critical-Infrastructure-Systems-Lab/manual/blob/master/docs/2025-01-30-pownet_prepare_transmission.md)
 
 
 # InfeRes
