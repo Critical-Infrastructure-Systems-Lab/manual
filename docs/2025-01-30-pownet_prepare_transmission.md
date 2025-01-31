@@ -5,7 +5,7 @@ description: >
   Guide on preparing "transmission.csv" as required by PowNet
 hide_description: true
 sitemap: false
-permalink: /docs/pownet-solar-wind-inputs
+permalink: /docs/pownet_prepare_transmission
 ---
 By: Phumthep Bunnak Jan 30th, 2025
 
