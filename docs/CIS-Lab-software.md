@@ -16,6 +16,8 @@ permalink: /docs/CIS-Lab-software
 
 - [Preparing Transmission input for PowNet](2025-01-30-pownet_prepare_transmission.md)
 
+- Coming soon: how to create CSV files.
+
 
 # InfeRes
 
