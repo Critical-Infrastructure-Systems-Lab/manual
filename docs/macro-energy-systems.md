@@ -23,6 +23,7 @@ permalink: /docs/macro-energy-systems
 | [Advancing the representation of reservoir hydropower in energy systems modelling: The case of Zambesi River Basin](https://doi.org/10.1371%2Fjournal.pone.0259876)| Stevanato et al. (2021) | Challenges - modeling | Power system models do not consider the mass-balance of water in reservoirs. An integrated operation requires coupling water-power models.| 9 |
 | [Overcoming the disconnect between energy system and climate modeling](https://www.sciencedirect.com/science/article/pii/S2542435122002379) | Craig et al. (2022) | Challenges - climate variability | Describes the challenges of integrating energy systems to weather/climate modeling | 10 |
 | [Improving poverty and inequality modelling in climate research](https://www.nature.com/articles/s41558-017-0004-x)| Rao et al. (2017) | Challenges - energy justice | Current models used in climate research have a limited ability to represent the poor and vulner able, or the different dimensions along which they face these risks | 12 | 
+[PyPSA-Earth. A new global open energy system optimization model demonstrated in Africa](https://doi.org/10.1016/j.apenergy.2023.121096)| Parzen et al. (2023) | Technical | Provides guidance on building a large-scale power system model based on experience of PyPSA-Earth | - |
 
 			
 
