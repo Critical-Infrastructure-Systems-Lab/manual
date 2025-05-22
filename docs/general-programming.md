@@ -60,6 +60,18 @@ When working on a long-term collaboration project with others, adopting a consis
 - Familiarize yourself with the [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html). While the choice of a specific style guide is subjective, Google Python Style Guide offers a comprehensive set of common rules along with clear explanations and examples.
 - Streamline your coding workflow by configuring [your favourite IDE](https://code.visualstudio.com/docs/python/formatting) to automatically format your code with tools, such as [Black](https://www.freecodecamp.org/news/auto-format-your-python-code-with-black/).
 
+
+# Introduction to unit testing
+
+Ensuring software reliability is an integral part of high-quality research, and unit tests help ensure the software is behaving as expected. Unit testing focuses on verifying that the building blocks -- small modular units of functions, classes, and methods -- work correctly. Many open-source projects report their test coverage, or the percentage of codebase tested. While high coverage does not guarantee the software is bug-free, it lends confidence to users that the code has been thoroughly tested. Ultimately, unit testing helps us squash bugs early in development, provide confidence when making code changes, and implicitly document the way individual code units are expected to work. 
+
+In Python, popular unit testing frameworks include `unittest` and `pytest`. These frameworks automate the process of running tests and reporting results.
+
+## To do list
+- Read a tutorial on unit testing in Python [here](https://www.datacamp.com/tutorial/unit-testing-python).
+- Familiarize with implementing unit testing by looking at [PowNet 2.0](https://github.com/Critical-Infrastructure-Systems-Lab/PowNet/tree/master/src/test_pownet)
+
+
 # Linux for research
 
 [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.html) is the powerhouse (operating system) behind most of our research group's computing clusters. Mastering the command line is required for running computational experiments. If you want a first dive into Linux, then check our blog post [here](https://critical-infrastructure-systems-lab.github.io/manual/programming/2024-07-10-tutorial-linux-1/). A deeper dive into this topic requires taking a short course on Bash Scripting.
