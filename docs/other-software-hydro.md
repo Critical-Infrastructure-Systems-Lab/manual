@@ -8,7 +8,7 @@ sitemap: false
 permalink: /docs/other-software-hydro
 ---
 
-## VIC (Variable Infiltration Capacity) Hydrologic Model
+# VIC (Variable Infiltration Capacity) Hydrologic Model
 
 The **Variable Infiltration Capacity (VIC)** model is a semi-distributed, macroscale hydrologic model widely used for simulating the terrestrial water and energy balance over large domains, such as river basins or continental regions. Designed for applications in climate impact studies, water resources assessment, and hydrologic forecasting, VIC has become a foundational tool in computational hydrology.
 
