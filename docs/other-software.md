@@ -16,7 +16,7 @@ This section provides an overview of tools (not developed by our lab) that we of
   * Weather Generators
 * [Energy systems modeling](other-software-energy.md)
   * GridPath
-* [System analysis tools]((other-software-systems.md))
+* [System analysis tools](other-software-systems.md)
   * Multi-Objective Evolutionary Algorithms
   * Sensitivity analysis  
 
