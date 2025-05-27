@@ -27,6 +27,7 @@ The current version of the model and source code is hosted on GitHub: [https://g
 
 For post-processing VIC output or developing your own workflows, we recommend using Python packages such as `xarray`, `netCDF4`, and `matplotlib` to analyze and visualize the model’s gridded data products.
 
+---
 
 ## netCFD 
 
@@ -36,6 +37,7 @@ NetCDF (Network Common Data Form) is a widely used file format for storing multi
 * Command-line: [NCO](https://nco.sourceforge.net) and [CDO](https://www.unidata.ucar.edu/software/netcdf/workshops/2012/third_party/CDO.html) (Climate Data Operators) for quick processing (e.g., subsetting, averaging).
 * Visualization: [Panoply](https://www.giss.nasa.gov/tools/panoply/) for browsing and plotting NetCDF files
 
+---
 
 ## Weather generators
 
