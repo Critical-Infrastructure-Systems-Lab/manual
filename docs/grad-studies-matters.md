@@ -12,11 +12,13 @@ permalink: /docs/grad-studies-matters
 
 What courses are offered by Cornell's CEE School? How about other departments? All information about courses, enrollment etc. are provided on the [website](https://registrar.cornell.edu) of the Cornell University Registrar. An additional resources we recommend checking out is the EWRS [class-list](https://github.com/Cornell-EWRS/class-list), which contains reviews of courses taken by former EWRS students. Ask [Stefano](mailto;galelli@cornell.edu) for the credentials to access the class-list.
 
+---
 
 # CEE Graduate Field handbook
 
 Aside from courses, you will need information on requirements, deadlines, exams etc. This information is consolidated in the [CEE Graduate Field handbook](https://www.cee.cornell.edu/cee-graduate-field-handbook).
 
+---
 
 # Previous theses and exams
 
@@ -48,6 +50,7 @@ This is a comprehensive list of theses and exams from former and current lab mem
 
 - Hunter Douglas [thesis](../assets/img/docs/MSc-thesis-Douglas.pdf)
 
+---
 
 # Literature starter-pack
 
@@ -67,6 +70,7 @@ We prepared a reading list for a few important research topics
     - South Asia
     - CONUS
 
+---
 
 # Conferences
 
@@ -78,6 +82,28 @@ Which conferences should I attend? To answer this question, it is first importan
 - [EWRS](https://www.ewricongress.org)
 - [INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences)
 
+---
+
+# Tools for Discovering and Mining Scientific Literature
+
+Efficient literature discovery is essential for staying current and building a strong foundation for research. Several tools support academic exploration, citation mapping, and literature mining:
+
+- **ResearchRabbit**: A visual discovery platform that lets you explore networks of related papers, co-authors, and research topics. Especially useful for identifying overlooked but relevant work.
+  - Website: <https://www.researchrabbit.ai>
+
+- **Connected Papers**: Generates a visual graph of papers related to a “seed” paper using co-citation and similarity metrics. Helpful for finding conceptual neighborhoods.
+  - Website: <https://www.connectedpapers.com>
+
+- **Litmaps**: Allows you to track and visualize how papers are connected over time. Useful for longitudinal research mapping.
+  - Website: <https://www.litmaps.com>
+
+- **Semantic Scholar**: Uses AI to extract key insights (e.g., methods, data sets) and ranks results by relevance. Includes citation influence metrics.
+  - Website: <https://www.semanticscholar.org>
+
+- **Lens.org**: A powerful tool for literature and patent search with exportable citation graphs and advanced filtering.
+  - Website: <https://www.lens.org>
+
+For automated mining, tools like `scholarly` (Python) and APIs from Crossref, OpenAlex, or Semantic Scholar can be used to build custom search pipelines or citation networks.
 
 
 
