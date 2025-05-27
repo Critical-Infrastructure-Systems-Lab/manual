@@ -8,7 +8,9 @@ sitemap: false
 permalink: /docs/other-software
 ---
 
-# Multi-site and distributed stochastic weather generators
+# Weather generators
+
+## Multi-site and distributed stochastic weather generators
 
 * [IBMWeatherGen](https://github.com/IBM/IBMWeatherGen), gridded, multisite, multivariate, and daily stochastic weather generator based on resampling methodology (Python).
 * [Stochastic Weather Generator v2.0](https://github.com/nassernajibi/WGEN-v2.0), weather-regime based stochastic weather generator (R).
@@ -20,8 +22,16 @@ permalink: /docs/other-software
 
 * [weathergen](https://walkerjeffd.github.io/weathergen/), provides a set of functions for generating synthetic climate timeseries (R).
 
-# Streamflow generators
+## Streamflow generators
 
 This is a good [introduction](https://waterprogramming.wordpress.com/2017/08/29/open-source-streamflow-generator-part-i-synthetic-generation/) on the topic of stochastic streamflow generations.
 
 * [Kirsch-Nowak_Streamflow_Generator](https://github.com/julianneq/Kirsch-Nowak_Streamflow_Generator). This repository contains code for generating correlated synthetic daily streamflow time series at multiple sites assuming stationary hydrology. Monthly flows are generated using Cholesky decomposition and then disaggregated to daily flows by proportionally scaling daily flows from a randomly selected historical month +/- 7 days (Matlab / Python).
+
+
+# Sensitivity analysis
+
+* [SAFE toolbox](https://safetoolbox.github.io), available in Python, R, and Matlab. In addition to the software documentation, users can refer to [Pianosi et al. (2015)](https://www.sciencedirect.com/science/article/pii/S1364815215001188?via%3Dihub).
+* [SALib](https://github.com/SALib/SALib), available in Python. Similarly to SAFE, it implements commonly used sensitivity analysis methods.
+
+A good starting point to start learning sensitivity analysis is the review by [Pianosi et al. (2016)](https://www.sciencedirect.com/science/article/pii/S1364815216300287).
