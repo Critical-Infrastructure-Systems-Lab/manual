@@ -18,7 +18,7 @@ In contrast, **VIC 5.x** introduces a modular architecture that improves extensi
 
 The VIC model requires gridded meteorological inputs, typically daily or sub-daily precipitation, temperature, and wind speed. Model parameters include soil and vegetation properties, topographic information, and land cover fractions, which must be prepared in a structured format. Outputs vary by driver but often include streamflow, soil moisture, snow water equivalent, and evapotranspiration, typically saved as NetCDF files.
 
-To assist with preparing and processing these inputs and outputs, the [`tonic`](https://github.com/UW-Hydro/tonic) Python package provides a suite of utilities tailored for VIC. For routing streamflow through river networks, VIC can be paired with [`RVIC`](https://github.com/UW-Hydro/RVIC), a companion routing model.
+To assist with preparing and processing these inputs and outputs, the [`tonic`](https://github.com/UW-Hydro/tonic) Python package provides a suite of utilities tailored for VIC. For routing streamflow through river networks, VIC can be paired with [`RVIC`](https://github.com/UW-Hydro/RVIC), a companion routing model. In our lab, we typically use [VIC-Res](https://github.com/Critical-Infrastructure-Systems-Lab/VICRes) for routing purposes.
 
 The current version of the model and source code is hosted on GitHub: [https://github.com/UW-Hydro/VIC](https://github.com/UW-Hydro/VIC).
 
