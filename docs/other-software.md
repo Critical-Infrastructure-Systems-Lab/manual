@@ -10,7 +10,7 @@ permalink: /docs/other-software
 
 This section provides an overview of tools (not developed by our lab) that we often use in our research. It is organized into three main areas:
 
-* Hydrologic modeling
+* [Hydrologic modeling](docs/other-software-hydro.md)
   * VIC Hydrologic Model
   * NetCDF
   * Weather Generators
