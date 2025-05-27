@@ -55,7 +55,7 @@ NetCDF (Network Common Data Form) is a widely used file format for storing multi
 
 This is a good [introduction](https://waterprogramming.wordpress.com/2017/08/29/open-source-streamflow-generator-part-i-synthetic-generation/) on the topic of stochastic streamflow generations.
 
-* [Kirsch-Nowak_Streamflow_Generator](https://github.com/julianneq/Kirsch-Nowak_Streamflow_Generator). This repository contains code for generating correlated synthetic daily streamflow time series at multiple sites assuming stationary hydrology. Monthly flows are generated using Cholesky decomposition and then disaggregated to daily flows by proportionally scaling daily flows from a randomly selected historical month +/- 7 days (Matlab / Python).
+* [Kirsch-Nowak_Streamflow_Generator](https://github.com/julianneq/Kirsch-Nowak_Streamflow_Generator). This repository contains code for generating correlated synthetic daily streamflow time series at multiple sites assuming stationary hydrology. Monthly flows are generated using Cholesky decomposition and then disaggregated to daily flows by proportionally scaling daily flows from a randomly selected historical month +/- 7 days (Matlab / Python). 
 
 
 
