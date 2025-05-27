@@ -8,6 +8,18 @@ sitemap: false
 permalink: /docs/other-software
 ---
 
+This section provides an overview of tools (not developed by our lab) that we often use in our research. It is organized into three main areas:
+
+* Hydrologic modeling
+  * VIC Hydrologic Model
+  * NetCDF
+  * Weather Generators
+* Energy systems modeling
+  * GridPath
+* System analysis tools
+  * Multi-Objective Evolutionary Algorithms
+  * Sensitivity analysis  
+
 # Weather generators
 
 ## Multi-site and distributed stochastic weather generators
@@ -56,5 +68,24 @@ NetCDF (Network Common Data Form) is a widely used file format for storing multi
 * Command-line: [NCO](https://nco.sourceforge.net) and [CDO](https://www.unidata.ucar.edu/software/netcdf/workshops/2012/third_party/CDO.html) (Climate Data Operators) for quick processing (e.g., subsetting, averaging).
 * Visualization: [Panoply](https://www.giss.nasa.gov/tools/panoply/) for browsing and plotting NetCDF files
 
+
+## VIC (Variable Infiltration Capacity) Hydrologic Model
+
+The **Variable Infiltration Capacity (VIC)** model is a semi-distributed, macroscale hydrologic model widely used for simulating the terrestrial water and energy balance over large domains, such as river basins or continental regions. Designed for applications in climate impact studies, water resources assessment, and hydrologic forecasting, VIC has become a foundational tool in computational hydrology.
+
+There are two major versions of VIC currently in use. **VIC 4.x** is the legacy version, written in C with a relatively monolithic structure. It includes the core hydrologic processes such as surface runoff, baseflow, evapotranspiration, snow accumulation and melt, and energy balance at the land surface. Though still used in some studies, it is no longer under active development.
+
+In contrast, **VIC 5.x** introduces a modular architecture that improves extensibility and maintainability. It retains the core hydrologic logic of VIC 4.x but adds multiple “drivers” that define how the model is run and how input/output is handled. These include the **Classic Driver** (backward compatible with 4.x), the **Image Driver** (using NetCDF I/O and parallelism with MPI), the **CESM Driver** (for coupling with the Community Earth System Model), and a **Python Driver**, which provides bindings to the C code for integration into Python-based workflows. While the Python interface is still experimental, it offers a promising direction for modern hydrologic modeling pipelines.
+
+The VIC model requires gridded meteorological inputs, typically daily or sub-daily precipitation, temperature, and wind speed. Model parameters include soil and vegetation properties, topographic information, and land cover fractions, which must be prepared in a structured format. Outputs vary by driver but often include streamflow, soil moisture, snow water equivalent, and evapotranspiration, typically saved as NetCDF files.
+
+To assist with preparing and processing these inputs and outputs, the [`tonic`](https://github.com/UW-Hydro/tonic) Python package provides a suite of utilities tailored for VIC. For routing streamflow through river networks, VIC can be paired with [`RVIC`](https://github.com/UW-Hydro/RVIC), a companion routing model.
+
+The current version of the model and source code is hosted on GitHub: [https://github.com/UW-Hydro/VIC](https://github.com/UW-Hydro/VIC).
+
+- **VIC 4.x Documentation**: [https://vic.readthedocs.io/en/vic.4.2.d/](https://vic.readthedocs.io/en/vic.4.2.d/)
+- **VIC 5.x Documentation**: [https://vic.readthedocs.io/en/master/](https://vic.readthedocs.io/en/master/)
+
+For post-processing VIC output or developing your own workflows, we recommend using Python packages such as `xarray`, `netCDF4`, and `matplotlib` to analyze and visualize the model’s gridded data products.
 
 
