@@ -8,7 +8,7 @@ sitemap: false
 permalink: /docs/other-software-hydro
 ---
 
-# VIC (Variable Infiltration Capacity) Hydrologic Model
+## VIC (Variable Infiltration Capacity) Hydrologic Model
 
 The **Variable Infiltration Capacity (VIC)** model is a semi-distributed, macroscale hydrologic model widely used for simulating the terrestrial water and energy balance over large domains, such as river basins or continental regions. Designed for applications in climate impact studies, water resources assessment, and hydrologic forecasting, VIC has become a foundational tool in computational hydrology.
 
@@ -28,7 +28,7 @@ The current version of the model and source code is hosted on GitHub: [https://g
 For post-processing VIC output or developing your own workflows, we recommend using Python packages such as `xarray`, `netCDF4`, and `matplotlib` to analyze and visualize the model’s gridded data products.
 
 
-# netCFD 
+## netCFD 
 
 NetCDF (Network Common Data Form) is a widely used file format for storing multi-dimensional scientific data such as temperature, precipitation, wind, and other environmental variables. It is designed for efficient access, sharing, and analysis of large datasets—especially those varying over space and time. It is very popular because it stores structured array data (e.g., time × latitude × longitude), it is self-describing (metadata for variables and dimensions), it supports compression and efficient partial reads, and it is platform-independent. Tools and Libraries:
 
@@ -37,9 +37,9 @@ NetCDF (Network Common Data Form) is a widely used file format for storing multi
 * Visualization: [Panoply](https://www.giss.nasa.gov/tools/panoply/) for browsing and plotting NetCDF files
 
 
-# Weather generators
+## Weather generators
 
-## Multi-site and distributed stochastic weather generators
+### Multi-site and distributed stochastic weather generators
 
 * [IBMWeatherGen](https://github.com/IBM/IBMWeatherGen), gridded, multisite, multivariate, and daily stochastic weather generator based on resampling methodology (Python).
 * [Stochastic Weather Generator v2.0](https://github.com/nassernajibi/WGEN-v2.0), weather-regime based stochastic weather generator (R).
@@ -47,11 +47,11 @@ NetCDF (Network Common Data Form) is a widely used file format for storing multi
 * [AWE-GEN-2D](https://hyd.ifu.ethz.ch/research-data-models/awe-gen-2d.html), a stochastic weather generator that simulates gridded climate variables at high spatial and temporal resolution for present and future climates (Matlab).
 * [wxgen](https://github.com/metno/wxgen?tab=readme-ov-file), a command-line tool for generating arbitrarily long weather time-series. The generator produces gridded output for multiple variables (e.g. temperature, precipitation) and aims to have realistic covariances in space, time, and across variables (Python).
 
-## Single-site weather generators
+### Single-site weather generators
 
 * [weathergen](https://walkerjeffd.github.io/weathergen/), provides a set of functions for generating synthetic climate timeseries (R).
 
-## Streamflow generators
+### Streamflow generators
 
 This is a good [introduction](https://waterprogramming.wordpress.com/2017/08/29/open-source-streamflow-generator-part-i-synthetic-generation/) on the topic of stochastic streamflow generations.
 
