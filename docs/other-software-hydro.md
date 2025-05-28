@@ -29,6 +29,26 @@ For post-processing VIC output or developing your own workflows, we recommend us
 
 ---
 
+## Google Earth Engine 
+
+**Google Earth Engine (GEE)** is a cloud-based platform for large-scale geospatial analysis. It provides access to petabytes of satellite imagery, climate reanalysis, land cover, and hydrologic datasets—along with the tools to process them efficiently in the cloud. You can interact with GEE via a JavaScript-based Code Editor (in your browser) or through the Python API. It’s especially useful for environmental monitoring, spatial statistics, and time series extraction.
+
+In our lab, we use GEE for:
+- Mapping surface water and monitoring reservoirs. [InfeRes](https://github.com/Critical-Infrastructure-Systems-Lab/InfeRes), for example, is built with GEE.
+- Extracting time series of land surface temperature or vegetation indices (e.g., NDVI)
+- Evaluating land use change or watershed characteristics
+
+GEE eliminates the need to download large datasets manually. Instead, you write scripts that access, process, and visualize the data remotely.
+
+## To do list
+
+- Sign up for access: [https://signup.earthengine.google.com](https://signup.earthengine.google.com)
+- Try the **Code Editor**: Run an example script like NDVI over time for a region of interest.
+- Follow this beginner tutorial: [GEE JavaScript Quickstart](https://developers.google.com/earth-engine/guides/playground)
+- (Optional) Set up the Python API: [GEE Python Quickstart](https://developers.google.com/earth-engine/guides/python_install)
+
+---
+
 ## netCFD 
 
 NetCDF (Network Common Data Form) is a widely used file format for storing multi-dimensional scientific data such as temperature, precipitation, wind, and other environmental variables. It is designed for efficient access, sharing, and analysis of large datasets—especially those varying over space and time. It is very popular because it stores structured array data (e.g., time × latitude × longitude), it is self-describing (metadata for variables and dimensions), it supports compression and efficient partial reads, and it is platform-independent. Tools and Libraries:
