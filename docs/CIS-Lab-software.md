@@ -8,7 +8,31 @@ sitemap: false
 permalink: /docs/CIS-Lab-software
 ---
 
-# PowNet
+This page provides an overview of software tools developed and maintained by the CIS Lab. Repositories are organized by application domain.
+
+---
+
+## River Basins
+
+- **[VICRes](https://github.com/Critical-Infrastructure-Systems-Lab/VICRes)**  
+  Extends the VIC hydrologic model to represent reservoir storage and operations. The repo includes python wrappers for optimization and sensitivity analysis.
+
+- **[InfeRes]([https://github.com/Critical-Infrastructure-Systems-Lab/reservoir](https://github.com/Critical-Infrastructure-Systems-Lab/InfeRes)**  
+  A Python package for inferring reservoir water surface area, level and storage volume.
+
+Additional resources for InfeRes: [Gathering storage data (for validation purposes) from websites](https://critical-infrastructure-systems-lab.github.io/manual/programming/2024-06-16-scraping-a-website/)  
+
+- **[reservoir](https://github.com/Critical-Infrastructure-Systems-Lab/reservoir)**  
+  An R package for analyzing, designing, and operating water supply reservoirs.
+
+---  
+
+## Energy Systems
+
+- **[PowNet](https://github.com/Critical-Infrastructure-Systems-Lab/PowNet)**  
+  A Python-based production cost model for simulating unit commitment and economic dispatch in large-scale power systems.
+
+Additional resources for PowNet:  
 
 - [Collecting input data (generation, transmission, and demand) from multiple sources](PowNet-input-collection.md)
 
@@ -18,7 +42,39 @@ permalink: /docs/CIS-Lab-software
 
 - Coming soon: how to create CSV files.
 
+---
 
-# InfeRes
+## Urban Water
 
-- [Gathering storage data (for validation purposes) from websites](https://critical-infrastructure-systems-lab.github.io/manual/programming/2024-06-16-scraping-a-website/)
+- **[DHALSIM](https://github.com/Critical-Infrastructure-Systems-Lab/DHALSIM)**  
+  A digital twin for water distribution systems, integrating hydraulic simulation and cyber-physical security analysis.
+
+- **[epanetCPA](https://github.com/Critical-Infrastructure-Systems-Lab/epanetCPA)**  
+  A MATLAB toolbox for modeling the hydraulic response of water distribution systems to cyber-physical attacks.
+
+---
+
+## Streamflow reconstructions
+
+- **[ldsr](https://github.com/Critical-Infrastructure-Systems-Lab/ldsr)**  
+  A package for streamflow reconstruction using linear dynamical systems with regularization.
+
+- **[mbr](https://github.com/Critical-Infrastructure-Systems-Lab/mbr)**  
+  Implements the Mass-balance-adjusted regression algorithm for sub-annual streamflow reconstruction.
+
+---
+
+## Data Analytics
+
+- **[MATLAB_Iterative_Input_Selection](https://github.com/Critical-Infrastructure-Systems-Lab/MATLAB_Iterative_Input_Selection)**  
+  MATLAB implementation of the Iterative Input Selection (IIS) algorithm for feature selection in time series data.
+
+- **[w-qeiss](https://github.com/Critical-Infrastructure-Systems-Lab/w-qeiss)**  
+  Implements the Wrapper for Quasi Equally Informative Subset Selection (W-QEISS) algorithm for variable selection.
+
+- **[AutoEncoders for Event Detection (AEED)]()**  
+  A Keras-based class for anomaly detection, with application to water sensor networks
+
+---
+
+
