@@ -71,6 +71,7 @@ A well-organized GitHub repository improves code readability, promotes collabora
 
 ## Recommended Directory Structure
 
+```
 your-project/
 ├── README.md # Project overview and usage
 ├── LICENSE # Open-source license (e.g., MIT, GPL)
@@ -88,6 +89,7 @@ your-project/
 ├── tests/ # Unit and integration tests
 │ └── test_main.py
 └── results/ # Figures, tables, model outputs, logs
+```
 
 
 ## Key Files and Their Roles
