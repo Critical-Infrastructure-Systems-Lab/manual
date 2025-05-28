@@ -91,7 +91,6 @@ your-project/
 └── results/ # Figures, tables, model outputs, logs
 ```
 
-
 ## Key Files and Their Roles
 
 - `README.md`: Overview, installation instructions, usage examples.
@@ -110,6 +109,34 @@ your-project/
 ## To do list
 
 - read this write-up on organizing research code: [How to structure a Python data science project](https://drivendata.github.io/cookiecutter-data-science/)
+- Check out a good example, [PowNet](https://github.com/Critical-Infrastructure-Systems-Lab/PowNet)!
+
+---
+
+# GitHub Actions (Optional but Powerful)
+
+**GitHub Actions** is a built-in automation tool that lets you run tasks every time code is pushed, a pull request is opened, or on a custom schedule. For example, you can use Actions to:
+
+- Automatically run tests when someone pushes a change
+- Check that your code follows formatting rules
+- Deploy a website or update documentation
+- Re-run simulations on a schedule (e.g., daily or weekly)
+
+A GitHub Action is configured in a YAML file (e.g., `.github/workflows/test.yml`) and can be set up to run code in Python, R, or Bash.
+
+## Example Use Case
+
+A simple `test.yml` workflow might:
+1. Set up an R or Python environment
+2. Install your package or scripts
+3. Run unit tests from the `tests/` folder
+
+## To do list
+
+Start here:  
+
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)  
+- Example: [R workflows from r-lib](https://github.com/r-lib/actions/tree/v2/examples)
 
 ---
 
@@ -122,6 +149,58 @@ In Python, popular unit testing frameworks include `unittest` and `pytest`. Thes
 ## To do list
 - Read a tutorial on unit testing in Python [here](https://www.datacamp.com/tutorial/unit-testing-python).
 - Familiarize with implementing unit testing by looking at [PowNet 2.0](https://github.com/Critical-Infrastructure-Systems-Lab/PowNet/tree/master/src/test_pownet)
+
+---
+
+# Writing Software Documentation
+
+Well-documented code accelerates collaboration, reduces onboarding time, and enhances reproducibility. In our lab, we pair in-code documentation with external documentation hosted on [ReadTheDocs](https://readthedocs.io), using GitHub as the source of truth.
+
+## Types of Documentation
+
+1. **Docstrings / Roxygen Comments**  
+   These live inside the code and explain what each function or class does, what it expects as input, and what it returns.
+   - Python: Use triple-quoted docstrings in either NumPy or Google format.
+   - R: Use `#'` comments above each function (with `{roxygen2}`) to generate help files.
+
+2. **README.md**  
+   Every repository should have a clear and minimal README that includes:
+   - A short project description
+   - How to install dependencies
+   - How to run key scripts or reproduce key figures
+
+3. **Narrative Documentation**  
+   For larger projects, we maintain full documentation websites that include:
+   - Overview of the model or tool
+   - Installation and setup instructions
+   - Usage examples and tutorials
+   - Auto-generated API reference from in-code docstrings
+
+## GitHub & ReadTheDocs: How It Works
+
+We use **ReadTheDocs** to host our documentation and **GitHub** to store the code and doc sources. ReadTheDocs connects to GitHub and builds the documentation automatically every time a change is pushed to the `main` branch (or another branch if configured). Each project includes a `docs/` folder (for Sphinx) and a configuration file (`conf.py`). The docs are written in reStructuredText (`.rst`) or Markdown, and can include embedded code blocks, figures, equations, and links to the API.
+
+To enable this:
+- The repo must be public (or have a ReadTheDocs subscription if private).
+- You must activate the repo on [ReadTheDocs.org](https://readthedocs.org/), link it to the GitHub repo, and configure a build environment (e.g., `requirements.txt` or `readthedocs.yml`).
+- Optional: Use versioned docs (e.g., stable vs. dev branches).
+
+## Lab Example: PowNet
+
+The [`PowNet`](https://github.com/Critical-Infrastructure-Systems-Lab/PowNet) repository uses this setup effectively. Its documentation is automatically built and hosted at [https://pownet.readthedocs.io](https://pownet.readthedocs.io). 
+
+It includes:
+- A clear system overview
+- Installation instructions
+- Tutorials on how to run dispatch models
+- An API reference auto-generated from Python docstrings
+
+## Best Practices
+
+- Write docstrings as you code (not afterward).
+- Include usage examples, figures, or outputs where appropriate.
+- Keep narrative docs concise but complete.
+- Make sure your README links to the full docs.
 
 ---
 
@@ -151,35 +230,31 @@ The [Cornell University Center for Advanced Computing (CAC)](https://www.cac.cor
 
 # Large-scale computing
 
-... **to be completed**
+Some of the computational experiments in our lab, such as simulation-optimization or uncertainty analysis, can take hours or days to complete if run sequentially. **Large-scale computing** refers to strategies that divide this work across multiple cores, CPUs, or even machines, enabling experiments to finish faster and scale to more realistic problem sizes.
 
-## To do list
+One of the most widely used technologies for this is **MPI (Message Passing Interface)**. MPI enables programs to run **in parallel** by distributing tasks to separate processes that communicate with each other. In our lab, we typically do not write raw MPI code. Instead, we use **high-level libraries** like `mpi4py` (Python) or configure **batch jobs via SLURM** on a cluster like Hopper. 
 
-- ...
+## When you might need this
+- Running thousands of ensemble simulations or inflow scenarios
+- Training multiple policies in parallel
+- Performing grid search over large parameter spaces
 
-- ... **To be completed**
+## Tools and Languages
+- `mpi4py`: Python interface to MPI (used in some of our reservoir tools)
+- `joblib` or `multiprocessing`: For simpler parallelism on shared memory
+- `SLURM`: Job scheduler used on Hopper to submit parallel tasks
+- `sbatch`: Command-line tool to launch jobs across nodes
+
+## Example from our lab
+
+In the [`PowNet`](https://github.com/Critical-Infrastructure-Systems-Lab/PowNet) repository, we use cluster computing to run large-scale power system dispatch simulations. These jobs are often parallelized across multiple scenarios using **SLURM job arrays**, which are configured with Bash scripts and submitted to Cornell’s Hopper cluster. While the actual SLURM scripts may not be included in the public repo, they are used internally and follow Hopper conventions. Refer to the [Hopper guide](https://github.com/Cornell-EWRS/hopper#slurm) for templates and examples.
+
+## To do list (Getting started with parallel computing)
+
+- Read the SLURM section in the [Hopper guide](https://github.com/Cornell-EWRS/hopper#slurm)
+- If using Python, read the [mpi4py tutorial](https://mpi4py.readthedocs.io/en/stable/tutorial.html)
 
 ---
 
-# Google Earth Engine
 
-Another resource you may use is Google Earth Engine ... **to be completed**
-
-## To do list
-
-- ...
-
-- ... **To be completed**
-
----
-
-# Software documentation
-
-Software documentation provides information about a software program for everyone involved in its creation, deployment and use. **To be completed**
-
-## To do list
-
-- Open an account on [Read the Docs](https://about.readthedocs.com).
-
-- ... **To be completed**
 
