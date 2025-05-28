@@ -12,6 +12,7 @@ This section provides an overview of tools (not developed by our lab) that we of
 
 * [Hydrologic modeling](other-software-hydro.md)
   * VIC Hydrologic Model
+  * Google Earth Engine
   * NetCDF
   * Weather Generators
 * [Energy systems modeling](other-software-energy.md)
