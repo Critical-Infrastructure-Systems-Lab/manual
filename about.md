@@ -14,7 +14,7 @@ As mentioned on the [CIS Lab Website](https://galelli.cee.cornell.edu), **we are
 
 There are a few important values on which our team builds. In particular, we believe in:
 
-- A respectful, constructive, and pleasant working environment, in which everybody feels welcome and nurtured.
+- A diverse, respectful, constructive, and pleasant working environment, in which everybody feels welcome and nurtured.
 
 - Academic work-life balance. All stages of academic life can be challenging; we follow [these rules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8282063/) to guide us through our daily life. 
 
