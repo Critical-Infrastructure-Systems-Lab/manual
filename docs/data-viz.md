@@ -8,11 +8,21 @@ sitemap: false
 permalink: /docs/data-viz
 ---
 
-## Overview of Data Visualization Tools (R, Python, and Linux)
+## Introductory books
 
-Data visualization is essential for exploratory analysis, model diagnostics, and communication of results. This section provides a quick overview of common visualization libraries used in scientific computing, organized by programming environment.
+Data visualization is essential for exploratory analysis, model diagnostics, and communication of results. Some important introductory books on this topic are:
+
+- [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/index.html) (Claus O. Wilke): Emphasizes core principles like color coding, effective chart types, and visual redundancy. While it uses R for examples, its lessons are tool-agnostic.
+
+- [The Visual Display of Quantitative Information](https://kyl.neocities.org/books/%5BTEC%20TUF%5D%20the%20visual%20display%20of%20quantitative%20information.pdf) (Edward R. Tufte): A timeless classic that emphasizes minimalist, honest, and data-centric design. Its principles have shaped the foundations of information visualization.
+
+- [Data Visualization: A Practical Introduction](https://press.princeton.edu/books/hardcover/9780691181615/data-visualization?srsltid=AfmBOopGL7YY7hMGaBU_dTvf5Ufxx_4992XPRtw94G7iRpkhrC8UYDqy) (Kieran Healy): A hands‑on guide that bridges visualization theory with implementation using R and ggplot2. Highly accessible, focusing on both conceptual clarity and practical plotting—including maps and model outputs.
 
 ---
+
+## Overview of Data Visualization Tools (R, Python, and Linux)
+
+This section provides a quick overview of common visualization libraries used in scientific computing, organized by programming environment.
 
 ### Python
 
