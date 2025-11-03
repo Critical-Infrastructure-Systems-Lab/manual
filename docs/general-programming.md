@@ -216,15 +216,25 @@ It includes:
 
 ---
 
-# Cluster basics
+#  Cluster basics (CPU and GPU resources)
 
-The [Cornell University Center for Advanced Computing (CAC)](https://www.cac.cornell.edu) provides several computing resources. As part of the EWRS concentration, we have access to [Hopper](https://www.cac.cornell.edu/techdocs/clusters/Hopper/), a 22 compute nodes (c0001-c0022) with dual 20-core Intel Xeon Gold 5218R CPUs @ 2.1 GHz and 192 GB of RAM. This is likely the first cluster you will use.
+Please discuss with Stefano about your computing needs before proceeding with any of the resources described below.
 
-## To do list (Getting started with Hopper)
+## Free resources at Cornell
 
-- To use Hopper, submit the [request form](https://www.cac.cornell.edu/services/external/RequestCACid.aspx?ProjectID=vs498_0001) to CAC. Also email Professor [Vivek Srikrishnan](emailto:vs498@cornell.edu) to ask for his approval of the request.
+- As part of the EWRS concentration, we have free access to [Hopper](https://www.cac.cornell.edu/techdocs/clusters/Hopper/), a 22 compute nodes (c0001-c0022) with dual 20-core Intel Xeon Gold 5218R CPUs @ 2.1 GHz and 192 GB of RAM. This is likely the first cluster you will use. To use Hopper, submit the [request form](https://www.cac.cornell.edu/services/external/RequestCACid.aspx?ProjectID=vs498_0001) to CAC. Also email Professor [Vivek Srikrishnan](emailto:vs498@cornell.edu) to ask for his approval of the request. While waiting for the approval, read and understand this [guide](https://github.com/Cornell-EWRS/hopper) to get started with Hopper.
 
-- While waiting for the approval, read and understand this [guide](https://github.com/Cornell-EWRS/hopper) to get started with Hopper.
+- The [Cornell University Center for Advanced Computing (CAC)](https://www.cac.cornell.edu) maintains Red Cloud, Cornell's on-premise cloud. Cornell students, faculty, and staff are eligible for a free [Red Cloud Exploratory Project Account](https://www.cac.cornell.edu/services/GPUs.aspx), which includes: 165 core hours, 50GB of storage, and 1 hour of consulting assistance. Note that Red Cloud provides both CPU and GPU resources. 
+
+- The [Cornell Center for Social Sciences](https://socialsciences.cornell.edu/computing-and-data/cloud-computing-solutions) provides computing resources in a cloud environment with a wide range of available software. Cloud options include shared and dedicated computing servers. Based on member college approval, these resources are available to current Cornell faculty researchers, students and staff for research use only. 
+
+## Empire AI
+
+- With [Empire AI](https://www.empireai.edu), New York State is first in the nation to establish a consortium of public and private research institutions (including Cornell) advancing AI research for the public good at this scale. Within Cornell, this is part of the [Cornell AI Initiative](https://ai.cornell.edu). Access to Empire AI is provided through grant applications.
+
+## ACCESS
+
+- [ACCESS](https://access-ci.org) is a program established and funded by the U.S. National Science Foundation to help researchers and educators, with or without supporting grants, to utilize the nation’s advanced computing systems and services. ACCESS is available to students, researchers, and faculty members.
 
 ---
 
