@@ -59,6 +59,7 @@ We prepared a reading list for a few important research topics
 - [Macro-energy systems](macro-energy-systems.md)
 - [Large-scale hydrological modelling](large-scale-hydrological-modelling.md)
 - [Remote sensing for hydrology](remote-sensing-for-hydrology.md)
+- [Model-Calibration-and-Diagnostic-Evaluation](Model-Calibration-and-Diagnostic-Evaluation.md)
 - [Reservoir operations](reservoir-operations.md)
 - AI / ML for:
     - [hydro-climatology](DL-hydro-climatology.md)
