@@ -70,6 +70,7 @@ We prepared a reading list for a few important research topics
     - Southeast Asia
     - South Asia
     - CONUS
+- [Inverse Reinforcement Learning](inverse-reinforcement-learning.md)
 
 ---
 
