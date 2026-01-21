@@ -234,19 +234,19 @@ Please discuss with Stefano about your computing needs before proceeding with an
 
 ## ACCESS
 
-- [ACCESS](https://access-ci.org) is a program established and funded by the U.S. National Science Foundation to help researchers and educators, with or without supporting grants, to utilize the nation’s advanced computing systems and services. ACCESS is available to students, researchers, and faculty members. In our lab, we use ACCESS  for large-scale simulations or heavy AI training.
+- [**ACCESS**](https://access-ci.org) is a program established and funded by the U.S. National Science Foundation to help researchers and educators, with or without supporting grants, to utilize the nation’s advanced computing systems and services. ACCESS is available to students, researchers, and faculty members. In our lab, we use ACCESS  for large-scale simulations or heavy AI training.
 
-- [Project Types](https://allocations.access-ci.org/project-types): ACCESS uses a tiered system for projects based on the scale of your needs:
+- [**Project Types**](https://allocations.access-ci.org/project-types): ACCESS uses a tiered system for projects based on the scale of your needs:
    - **Explore ACCESS**: Ideal for code development, benchmarking, or small-scale research. It provides 400,000 credits and is usually approved within one business day.
    - **Discover ACCESS**: Designed for modest research needs as you move past the benchmarking phase. Provides 1,500,000 credits.
    - **Accelerate & Maximize**: Intended for large-scale research or multi-grant programs requiring significant computational power. 
 
-- To get started:
+- **To get started**:
    - Create an account: Register for an [ACCESS account](https://allocations.access-ci.org/get-your-first-project) using your institutional email. Do not use personal domains like Gmail.
    - Request your first project: Prepare a brief project title and abstract (1-page) and submit it via the [Get Started portal](https://allocations.access-ci.org/get-your-first-project). If you are a graduate student, you will need to upload a signed letter from Stefano affirming your role.
    - Browse available resources: Before requesting time, review the [Resource Catalog](https://allocations.access-ci.org/resources) to find the right hardware.
 
-- Managing your allocations: Once a project is approved, you are awarded ACCESS Credits. These must be "exchanged" for specific resource hours before you can log in.
+- **Managing your allocations**: Once a project is approved, you are awarded ACCESS Credits. These must be "exchanged" for specific resource hours before you can log in.
    - Exchange Credits: Navigate to your project management page and select "Exchange." Use the [Exchange Calculator](https://allocations.access-ci.org/exchange_calculator) to determine how many credits correspond to CPU/GPU hours on your chosen cluster.
    - Login and Setup: After the exchange is approved (usually 1–5 days), your Resource Username will appear on the project dashboard. 
    - Add Collaborators: If you are leading a project, you can add other lab members to the allocation via the project dashboard using their ACCESS IDs.
