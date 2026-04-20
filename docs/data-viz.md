@@ -18,6 +18,8 @@ Data visualization is essential for exploratory analysis, model diagnostics, and
 
 - [Data Visualization: A Practical Introduction](https://press.princeton.edu/books/hardcover/9780691181615/data-visualization?srsltid=AfmBOopGL7YY7hMGaBU_dTvf5Ufxx_4992XPRtw94G7iRpkhrC8UYDqy) (Kieran Healy): A hands‑on guide that bridges visualization theory with implementation using R and ggplot2. Highly accessible, focusing on both conceptual clarity and practical plotting—including maps and model outputs.
 
+- [Nature Methods articles on data visualization](https://www.nature.com/search?author=Bang%20Wong) (Bang Wong): A great series of articles on data visualization concepts from picking colors to using arrows. The author is the creative director of the Broad Institute at MIT and Harvard University. A favorite article is ["Avoiding Color"](https://www.nature.com/articles/nmeth.1642).
+
 ---
 
 ## Overview of Data Visualization Tools (R, Python, and Linux)
