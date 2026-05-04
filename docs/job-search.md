@@ -55,7 +55,7 @@ Feel free to ask [Stefano](mailto:galelli@cornell.edu) for an example.
 The answer is yes! Check out this [website](https://futurefaculty.cornell.edu/resources/academic-job-search/).
 
 
-# Are there external workshops to prepare for the faculty job market?
+# Are there workshops to prepare for the faculty job market?
 
 ## Trailblazers in Engineering
 
