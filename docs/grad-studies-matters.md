@@ -38,6 +38,7 @@ This is a comprehensive list of theses and exams from former and current lab mem
 - [Slides](../assets/img/docs/PhD-defense-Ng.pptx) by Dr. Ng
 - [Slides](../assets/img/docs/PhD-defense-Koh.pptx) by Dr. Koh
 - [Slides](../assets/img/docs/PhD-defense-Vu-noappendix.pptx.zip) by Dr. Vu
+- [Slides](../assets/img/docs/PhD-defense-Phumthep.pdf) by Dr. Phumthep
 
 ## PhD theses
 
@@ -45,6 +46,7 @@ This is a comprehensive list of theses and exams from former and current lab mem
 - Dr. Ng's [thesis](../assets/img/docs/Thesis-Ng.pdf)
 - Dr. Koh's thesis (please ask [Stefano](mailto:galelli@cornell.edu))
 - Dr. Vu's [thesis](../assets/img/docs/Thesis-Vu.pdf)
+- Dr. Phumthep's thesis (please ask [Stefano](mailto:galelli@cornell.edu))
 
 ### MSc theses
 

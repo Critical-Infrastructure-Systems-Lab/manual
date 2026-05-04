@@ -281,5 +281,110 @@ In the [`PowNet`](https://github.com/Critical-Infrastructure-Systems-Lab/PowNet)
 
 ---
 
+# Research File Organization and Backup Protocol
+
+Research work in the group should be organized and backed up in a way that supports continuity, reproducibility, and long-term accessibility. A clear structure helps prevent data loss, but just as importantly, it ensures that your work can be understood, reused, and built upon—by collaborators, by others in the group, and by your future self. 
+
+## PhD students and PostDocs
+
+PhD students and PostDocs are expected to maintain a well-organized archive of their research materials and ensure that these are backed up on CAC archival storage. This archive should be kept reasonably up to date during the project (e.g., at key milestones such as exams or paper submissions) and finalized before leaving the group. The structure below provides a **recommended baseline organization**. You are free to organize your day-to-day working files in a way that suits your workflow, but important materials should ultimately be consolidated within this structure. Each project and paper should be reasonably self-contained and documented so that another researcher can understand its purpose, locate the relevant data and code, and reproduce the main results.
+
+```text
+[LastName_FirstName]/
+├── 00_Admin_and_Career/
+│   ├── Milestones/
+│   ├── Thesis_or_Career_Documents/
+│   └── Funding_and_CV/
+│
+├── 01_Research_Projects/
+│   ├── Project_1/
+│   │   ├── Data/
+│   │   │   ├── Raw/
+│   │   │   ├── Processed/
+│   │   │   └── External/
+│   │   ├── Code/
+│   │   ├── Notes/
+│   │   ├── Results/
+│   │   ├── Figures/
+│   │   └── README.md
+│   └── Project_2/
+│
+├── 02_Papers/
+│   ├── Paper_1/
+│   │   ├── Manuscript/
+│   │   ├── Figures/
+│   │   ├── Data/
+│   │   ├── Code/
+│   │   ├── Reviews_and_Responses/
+│   │   └── README.md
+│
+├── 03_Presentations/
+│   ├── Conference_Name_Year/
+│   ├── Group_Meetings/
+│   └── Thesis_Defense_or_Job_Talk/
+│
+├── 90_Archive/
+│
+└── README.md
+```
+
+---
+
+## Good Practices
+
+- Keep all important research materials within this structure and ensure they are backed up on CAC archival storage.
+- Organize work primarily by **project**, and keep related data, code, and results together.
+- Maintain a **self-contained folder for each paper**, including manuscript files, figures, and the code/data needed to reproduce results (or clear links to them).
+- Include a short `README.md` in each project and paper folder.
+- Distinguish between **raw**, **processed**, and **external** data whenever possible.
+- Use clear and descriptive file and folder names (avoid terms like `final_v2`, `new`, etc.).
+- Move completed or inactive work to `90_Archive/`.
+
+---
+
+## Backup and Handover
+
+- Avoid storing important files only on a local machine.
+- Ensure all materials are backed up on CAC archival storage.
+- Keep your archive reasonably up to date, especially at key milestones.
+- Before leaving the group, ensure that your folders are organized and documented.
+
+---
+
+## README Template (Projects and Papers)
+
+Each project and paper folder should include a short `README.md`.
+
+```markdown
+# Title (Project or Paper Name)
+
+## Description
+Brief description of the project or paper.
+
+## Objectives
+- Objective 1
+- Objective 2
+
+## Data
+- Source(s):
+- Location:
+
+## Code
+- Main scripts:
+- How to run:
+
+## Results
+- Where outputs/figures are stored:
+
+## Status
+(e.g., ongoing, submitted, published)
+
+## Notes
+Additional useful information.
+```
+
+---
+
+
 
 
