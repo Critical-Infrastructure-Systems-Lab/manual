@@ -55,6 +55,19 @@ Feel free to ask [Stefano](mailto:galelli@cornell.edu) for an example.
 The answer is yes! Check out this [website](https://futurefaculty.cornell.edu/resources/academic-job-search/).
 
 
+# Are there external workshops to prepare for the faculty job market?
+
+## Trailblazers in Engineering
+
+[Trailblazers in Engineering (TBE)](https://engineering.purdue.edu/Trailblazers) is a four-day workshop held annually in the summer at Purdue University, designed to prepare late-stage PhDs and postdocs for faculty careers. Key details:
+
+- Up to 25 fellows are selected each year, with lodging, meals, and travel covered.
+- Panels cover the application package, interviews, negotiation, and early-career funding.
+- Sessions are held with program managers from National Science Foundation, Office of Naval Research and Air Force Office of Scientific Research.
+- A poster session provides direct feedback from faculty.
+- Required materials: cover letter, 2-page research and education plan, CV, and one recommendation letter.
+- Check the website for current dates and application details.
+
 # How do I apply for a faculty position?
 
 Job interviews for a faculty position are typically carried out in three steps. First, you submit your 'package', which will be evaluated by a group of faculty members. If your application is successful, (meaning you have been shortlisted) you will be then approached for a Zoom interview (20 mins or so), whose goal is to create a final list of candiodates that will be interviewed on campus. Each stage requires a **thorough and time-consuming preparation**. Here, we provide a few useful resources for each of this three stages. 
